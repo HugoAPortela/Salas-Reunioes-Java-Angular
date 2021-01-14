@@ -1,44 +1,37 @@
-# ClientRoom
+ClientRoom
+Este projeto foi gerado com Angular CLI versão 9.0.0-rc.7.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.0-rc.7.
+Servidor de desenvolvimento
+Executando o serviço para um servidor de desenvolvimento. Navegue para http: // localhost: 4200 /. O aplicativo será recarregado automaticamente se você alterar qualquer um dos arquivos de origem.
 
-## Development server
+Estrutura de código
+Executar ng generate component-name para gerar um novo componente. Você também pode usar ng generate diretiva | pipe | serviço | classe | guard | interface | enum | módulo.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Construir
+Rodando o build para construir o projeto. Os artefatos de construção serão armazenados no diretório dist /. Use o sinalizador --prod para uma construção de produção.
 
-## Code scaffolding
+Executando testes de unidade
+Executar teste ng para executar os testes de unidade via Karma.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Execução de testes ponta a ponta
+Executando ng e2e para executar os testes ponta a ponta por meio do Transferidor.
 
-## Build
+Mais ajuda
+Para obter mais ajuda sobre o Angular CLI, use a ajuda ou verifique o README do Angular CLI.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-
-## verificar vesao nodejs
+verificar vesao nodejs
 node -v
 
-### verificar versao npm 
+verificar versão npm
 npm -v
 
-### instalar angular 9
-npm install -g @angular/cli@9.0.0-rc.7
+instalar angular 9
+npm install -g @ angular / cli @ 9.0.0-rc.7
 
-### verificar versao angular
+verificar a versão angular
 ng --version
 
-### criar projeto 
+criar projeto
 ng new client-room
 
 
